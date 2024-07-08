@@ -1,0 +1,63 @@
+.container{
+    background-color: gray;
+    size: 20px;
+   
+}
+.flex{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.row{
+    margin:6px -34px 6px 26px;
+    padding: 2px 2px 2px 2px;
+}
+.button{
+    background-color: aqua;
+font-size: large;
+font-weight: bold;
+margin-left:-13px;
+padding: 15px 42px;
+width: 60px;
+ 
+}
+.box{
+    border:2px solid black;
+    display:inline-block;
+    background-color: black;
+}
+.input{
+margin:  9px  13px  3px  12px;
+padding: 2px  2px  2px  2px;
+align-items: center;
+align-content: center;
+height: 135px;
+width:316px;
+
+
+}
+.yel{
+    background-color:yellow;
+}
+
+.m-w-20{
+    max-width:10px;}
+
+
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+
+  
+
+   
+  
+
+
